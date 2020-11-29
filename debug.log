@@ -1,0 +1,4 @@
+[1123/183815.388:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1123/211453.047:ERROR:process_info.cc(329)] VirtualQueryEx: Käyttö estetty. (0x5)
+[1123/211453.049:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1123/211453.050:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Yritettiin käyttää suljettavaa prosessia. (0xc000010a)
